@@ -1,3 +1,3 @@
 # TypeScript Webresource Template for Dynamics 365 CE
 
-Based on Scott Durow's course.
+A simple template for Dynamics 365 CE webresource development using typescript. Based on Scott Durow's cource and put into convenient for me structure.
