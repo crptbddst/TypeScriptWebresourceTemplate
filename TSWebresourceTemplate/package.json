@@ -1,7 +1,7 @@
 {
   "name": "tswebresourcetemplate",
   "version": "1.0.0",
-  "description": "Basic ready-to-go template for Dynamics 365 CE webresource development using TypeScript basen on Scott Durow's cource.",
+  "description": "Basic ready-to-go template for Dynamics 365 CE webresource development using TypeScript basen on Scott Durow's course.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src --ext .ts",
