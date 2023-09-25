@@ -1,0 +1,15 @@
+{
+    "webresources": [
+        {
+            "profile": "default,debug",
+            "solution": "SOLUTION_UNIQUE_NAME",
+            "files": [
+                {
+                    "uniquename": "dev1_/js/WebresourceToName.js",
+                    "file": "./TSWebresourceTemplate/dist/WebresourceToName.js",
+                    "description": "JavaScript for Forms and Commandbar Actions"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+var namespace1;(namespace1=void 0===namespace1?{}:namespace1).namespace2={};
