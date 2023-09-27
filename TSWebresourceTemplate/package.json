@@ -28,6 +28,8 @@
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
-    "dataverse-ify": "^1.0.13"
+    "dataverse-gen": "^2.0.15",
+    "dataverse-ify": "^2.0.7",
+    "dataverse-auth": "^2.0.7"
   }
 }
